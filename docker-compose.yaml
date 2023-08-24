@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  mariadb:
+    image: mariadb
+    container_name: marias-railroad
+    environment:
+      MYSQL_ROOT_PASSWORD: mySuperSecretPassword!
+      MYSQL_DATABASE: railroads
+      MYSQL_USER: railAdmin
+      MYSQL_PASSWORD: adminSecretPassword!
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+
+volumes:
+  mariadb_data:
