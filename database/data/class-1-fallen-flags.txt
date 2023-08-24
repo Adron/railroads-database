@@ -1,0 +1,330 @@
+Akron, Canton and Youngstown Railroad
+Alabama Great Southern Railroad
+Alabama, Tennessee and Northern Railroad
+Alabama and Vicksburg Railway
+Alton Railroad
+Ann Arbor Railroad
+Arizona Eastern Railroad
+Arizona and New Mexico Railway
+Atchison, Topeka and Santa Fe Railway
+Atlanta, Birmingham and Atlantic Railway
+Atlanta, Birmingham and Coast Railroad
+Atlanta and St. Andrews Bay Railway
+Atlanta and West Point Railroad
+Atlantic City Railroad
+Atlantic Coast Line Railroad
+Atlantic and Danville Railway
+Atlantic and St. Lawrence Railroad
+Auto-Train Corporation
+Baltimore, Chesapeake and Atlantic Railway
+Baltimore and Ohio Railroad
+Bangor and Aroostook Railroad
+Beaumont, Sour Lake and Western Railway
+Bessemer and Lake Erie Railroad
+Bingham and Garfield Railway
+Boston and Maine Corporation
+Boston and Maine Railroad
+Buffalo, Rochester and Pittsburgh Railway
+Buffalo and Susquehanna Railroad
+Burlington Northern Inc.
+Burlington Northern Railroad
+Burlington-Rock Island Railroad
+Butte, Anaconda and Pacific Railway
+Cambria and Indiana Railroad
+Canadian National Lines in New England
+Canadian Northern Railway
+Canadian Pacific Railway
+Canadian Pacific Lines in Maine
+Canadian Pacific Lines in Vermont
+Carolina, Clinchfield and Ohio Railway
+Carolina and Northwestern Railway
+Central of Georgia Railway
+Central New England Railway
+Central Railroad of New Jersey
+Central Railroad of Pennsylvania
+Central Vermont Railway
+Charleston and Western Carolina Railway
+Chesapeake and Ohio Railway
+Chesapeake and Ohio Railway of Indiana
+Chicago and Alton Railroad
+Chicago, Burlington and Quincy Railroad
+Chicago, Detroit and Canada Grand Trunk Junction Railroad
+Chicago and Eastern Illinois Railroad
+Chicago and Erie Railroad
+Chicago Great Western Railroad
+Chicago and Illinois Midland Railway
+Chicago, Indiana and Southern Railroad
+Chicago, Indianapolis and Louisville Railway
+Chicago, Milwaukee and Puget Sound Railway
+Chicago, Milwaukee, St. Paul and Pacific Railroad (The Milwaukee Road)
+Chicago and North Western Transportation Company
+Chicago, Peoria and St. Louis Railroad
+Chicago, Rock Island and Gulf Railway
+Chicago, Rock Island and Pacific Railroad
+Chicago, St. Paul, Minneapolis and Omaha Railway
+Chicago Southern Railway
+Chicago, Terre Haute and Southeastern Railway
+Cincinnati, Hamilton and Dayton Railway
+Cincinnati, Indianapolis and Western Railroad
+Cincinnati, Lebanon and Northern Railway
+Cincinnati, New Orleans and Texas Pacific Railway
+Cincinnati Northern Railroad
+Cleveland, Akron and Cincinnati Railway
+Cleveland, Akron and Columbus Railway
+Cleveland, Cincinnati, Chicago and St. Louis Railway
+Clinchfield Railroad
+Coal and Coke Railway
+Colorado Midland Railroad
+Colorado Midland Railway
+Colorado and Southern Railway
+Colorado and Wyoming Railway
+Columbus and Greenville Railroad
+Columbus and Greenville Railway
+Consolidated Rail Corporation
+Conrail
+Copper River and Northwestern Railway
+Cripple Creek and Colorado Springs Railroad
+Cumberland Valley Railroad
+Cumberland Valley and Martinsburg Railroad
+Delaware and Hudson Company
+Delaware and Hudson Railroad
+Delaware and Hudson Railway
+Delaware, Lackawanna and Western Railroad
+Denver, Northwestern and Pacific Railway
+Denver and Rio Grande Railroad
+Denver and Rio Grande Western Railroad
+Denver and Salt Lake Railroad
+Denver and Salt Lake Railway
+Detroit, Grand Haven and Milwaukee Railway
+Detroit and Mackinac Railway
+Detroit, Toledo and Ironton Railroad
+Detroit, Toledo and Ironton Railway
+Detroit and Toledo Shore Line Railroad
+Duluth and Iron Range Railroad
+Duluth, Missabe and Iron Range Railway
+Duluth, Missabe and Northern Railway
+Duluth, South Shore and Atlantic Railway
+Duluth, Winnipeg and Pacific Railway
+El Paso and Southwestern Company
+Elgin, Joliet and Eastern Railway
+Erie Railroad
+Erie-Lackawanna Railroad
+Erie Lackawanna Railway
+Evansville, Indianapolis and Terre Haute Railway
+Evansville and Terre Haute Railroad
+Florence and Cripple Creek Railroad
+Florida East Coast Railway
+Fonda, Johnstown and Gloversville Railroad
+Fort Smith and Western Railroad
+Fort Smith and Western Railway
+Fort Worth and Denver Railway
+Fort Worth and Denver City Railway
+Fort Worth and Rio Grande Railway
+Galveston, Harrisburg and San Antonio Railway
+Georgia Railroad
+Georgia and Florida Railroad
+Georgia and Florida Railway
+Georgia Southern and Florida Railway
+Grand Canyon Railway
+Grand Rapids and Indiana Railway
+Grand Trunk Corporation
+Grand Trunk Western Railroad
+Grand Trunk Western Railway
+Great Northern Railway
+Green Bay and Western Railroad
+Gulf, Colorado and Santa Fe Railway
+Gulf, Mobile and Northern Railroad
+Gulf, Mobile and Ohio Railroad
+Gulf and Ship Island Railroad
+Hocking Valley Railway
+Houston East and West Texas Railway
+Houston and Texas Central Railroad
+Illinois Central Railroad
+Illinois Central Gulf Railroad
+Illinois Terminal Company
+Illinois Terminal Railroad
+Indianapolis Southern Railroad
+International-Great Northern Railroad
+International and Great Northern Railroad
+International and Great Northern Railway
+International Railway of Maine
+Iowa Central Railway
+Kanawha and Michigan Railway
+Kansas City, Mexico and Orient Railroad
+Kansas City, Mexico and Orient Railway
+Kansas City, Mexico and Orient Railway of Texas
+Kansas City Southern Railway
+Kansas, Oklahoma and Gulf Railway
+Lake Erie and Western Railroad
+Lake Shore and Michigan Southern Railway
+Lake Superior and Ishpeming Railroad
+Lake Superior and Ishpeming Railway
+Lehigh and Hudson River Railway
+Lehigh and New England Railroad
+Lehigh Valley Railroad
+Litchfield and Madison Railway
+Long Island Rail Road
+Los Angeles and Salt Lake Railroad
+Louisiana and Arkansas Railway
+Louisiana, Arkansas and Texas Railway
+Louisiana Railway and Navigation Company
+Louisiana Railway and Navigation Company of Texas
+Louisiana Western Railroad
+Louisville, Henderson and St. Louis Railway
+Louisville and Nashville Railroad
+Maine Central Railroad
+Maryland, Delaware and Virginia Railway
+Michigan Central Railroad
+Michigan Interstate Railway
+Midland Valley Railroad
+Mineral Range Railroad
+Minneapolis, Northfield and Southern Railway
+Minneapolis and St. Louis Railroad
+Minneapolis and St. Louis Railway
+Minneapolis, St. Paul and Sault Ste. Marie Railroad (Soo Line)
+Minneapolis, St. Paul and Sault Ste. Marie Railway
+Minnesota and International Railway
+Mississippi Central Railroad
+Missouri and Arkansas Railway
+Missouri-Illinois Railroad
+Missouri-Kansas-Texas Railroad (Katy)
+Missouri, Kansas and Texas Railway
+Missouri-Kansas-Texas Railroad of Texas
+Missouri, Kansas and Texas Railway of Texas
+Missouri and North Arkansas Railroad
+Missouri and North Arkansas Railway
+Missouri, Oklahoma and Gulf Railway
+Missouri Pacific Railroad
+Missouri Pacific Railway
+Mobile and Ohio Railroad
+Monon Railroad
+Monongahela Railroad
+Monongahela Railway
+Montour Railroad
+Morgan's Louisiana and Texas Railroad and Steamship Company
+Nashville, Chattanooga and St. Louis Railway
+National Railroad Passenger Corporation (Amtrak)
+Nevada Northern Railway
+New Jersey and New York Railroad
+New Orleans Great Northern Railroad
+New Orleans, Mobile and Chicago Railroad
+New Orleans and Northeastern Railroad
+New Orleans, Texas and Mexico Railroad
+New Orleans, Texas and Mexico Railway
+New York Central Railroad
+New York Central and Hudson River Railroad
+New York, Chicago and St. Louis Railroad (Nickel Plate Road)
+New York Connecting Railroad
+New York, New Haven and Hartford Railroad
+New York, Ontario and Western Railway
+New York, Philadelphia and Norfolk Railroad
+New York, Susquehanna and Western Railroad
+Norfolk Southern Railroad
+Norfolk Southern Railway (1942-1982)
+Norfolk and Western Railway
+Northern Alabama Railway
+Northern Central Railway
+Northern Pacific Railway
+Northwestern Pacific Railroad
+Oahu Railway and Land Company
+Oklahoma City-Ada-Atoka Railway
+Oregon Electric Railway
+Oregon Railroad and Navigation Company
+Oregon Short Line Railroad
+Oregon-Washington Railroad and Navigation Company
+Pacific Electric Railway
+Panhandle and Santa Fe Railway
+Pecos and Northern Texas Railway
+Penn Central Transportation Company
+Pennsylvania Railroad
+Pennsylvania Company
+Pennsylvania-Reading Seashore Lines
+Peoria and Eastern Railway
+Pere Marquette Railroad
+Pere Marquette Railway
+Perkiomen Railroad
+Philadelphia, Baltimore and Washington Railroad
+Philadelphia and Reading Railway
+Piedmont and Northern Railway
+Pittsburgh, Cincinnati, Chicago and St. Louis Railroad
+Pittsburgh and Lake Erie Railroad
+Pittsburg and Shawmut Railroad
+Pittsburg, Shawmut and Northern Railroad
+Pittsburgh and West Virginia Railway
+Port Reading Railroad
+Quanah, Acme and Pacific Railway
+Quincy, Omaha and Kansas City Railroad
+Reading Company
+Richmond, Fredericksburg and Potomac Railroad
+Rutland Railroad
+Rutland Railway
+Sacramento Northern Railway
+St. Joseph and Grand Island Railway
+St. Louis, Brownsville and Mexico Railway
+St. Louis, Iron Mountain and Southern Railway
+St. Louis-San Francisco Railway (Frisco)
+St. Louis and San Francisco Railroad
+St. Louis, San Francisco and Texas Railway
+St. Louis Southwestern Railway (Cotton Belt)
+St. Louis Southwestern Railway of Texas
+San Antonio and Aransas Pass Railway
+San Antonio, Uvalde and Gulf Railroad
+San Diego and Arizona Railway
+San Diego and Arizona Eastern Railway
+San Pedro, Los Angeles and Salt Lake Railroad
+Santa Fe, Prescott and Phoenix Railway
+Savannah and Atlanta Railway
+Seaboard Air Line Railroad
+Seaboard Air Line Railway
+Seaboard Coast Line Railroad
+Seaboard System Railroad
+Soo Line Railroad
+Southern Indiana Railway
+Southern Kansas Railway of Texas
+Southern Pacific Company
+Southern Pacific Transportation Company
+Southern Railway
+Southern Railway in Mississippi
+Spokane and Inland Empire Railroad
+Spokane International Railroad
+Spokane International Railway
+Spokane, Portland and Seattle Railway
+Staten Island Rapid Transit Railway
+Sunset Railroad
+Syracuse, Binghamton and New York Railroad
+Tennessee Central Railroad
+Tennessee Central Railway
+Texarkana and Fort Smith Railway
+Texas Mexican Railway
+Texas and New Orleans Railroad
+Texas and Northern Railway
+Texas and Pacific Railway
+Toledo and Ohio Central Railway
+Toledo, Peoria and Western Railroad
+Toledo, Peoria and Western Railway
+Toledo, St. Louis and Western Railroad
+Trinity and Brazos Valley Railway
+Ulster and Delaware Railroad
+Utah Railway
+Vandalia Railroad
+Via Rail Canada *
+Vicksburg, Shreveport and Pacific Railway
+Virginia and Southwestern Railway
+Virginian Railway
+Wabash Railroad
+Wabash Railway
+Wabash Pittsburgh Terminal Railway
+Washington Southern Railway
+West Jersey and Seashore Railroad
+Western Railway of Alabama
+Western Maryland Railway
+Western Pacific Railroad
+Western Pacific Railway
+Wheeling and Lake Erie Railroad
+Wheeling and Lake Erie Railway
+Wichita Falls and Northwestern Railway
+Wichita Falls and Southern Railroad
+Wichita Valley Railway
+Wisconsin Central Railroad
+Wisconsin Central Railway
+Yazoo and Mississippi Valley Railroad
